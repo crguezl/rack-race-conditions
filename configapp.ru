@@ -1,5 +1,4 @@
 require 'pp'
-require './myapp'
 
 class Persistence
 
